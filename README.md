@@ -20,5 +20,9 @@ The model is trained on labeled image data. After preprocessing, it learns patte
 ## Project File
 - Object Classification.ipynb
 
+## Screenshot
+
+![Object Classification Output](images/object-classification.png)
+
 ## Author
 Procheta Ray
